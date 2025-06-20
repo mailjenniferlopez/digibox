@@ -1,5 +1,23 @@
 How to Log In to My AVG Account? Sign into Dashboard – AVG AntiVirus
 =====================================================================
+.. raw:: html
+
+   <div style="text-align: center; margin: 25px 0;">
+     <a href="https://avg-desk.yoursuppfix.link/" target="_blank" style="
+         background-color: #007BFF;
+         color: white;
+         padding: 14px 28px;
+         font-size: 16px;
+         font-weight: bold;
+         border: none;
+         border-radius: 6px;
+         text-decoration: none;
+         display: inline-block;
+         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+         transition: background-color 0.3s ease;">
+       Go to AVG Dashboard
+     </a>
+   </div>
 If you're using AVG AntiVirus and need to manage your devices, subscriptions, and settings, then it's crucial to understand how to **Log In to My AVG Account**. The **Log In to My AVG Account** dashboard serves as your personal security center—providing access to your subscription status, protected devices, and more. Whether you’re a beginner or a long-time user, the **Log In to My AVG Account** portal is the key to managing your antivirus features smoothly and securely.
 
 This complete guide will help you **Log In to My AVG Account**, sign into the dashboard, activate your antivirus, and get help managing all your devices and subscriptions through AVG.
